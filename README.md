@@ -30,3 +30,10 @@ This Excel dashboard provides an in-depth analysis of gym workout trends, perfor
 - ⏱ Workout frequency affects session duration and resting heart rate.
 - 🚻 Males and females prefer different types of workouts.
 - 📊 Fat percentage distribution helps assess overall fitness trends.
+
+## 🤝 Contributors
+
+- **Shlok Tilokani** - [GitHub](https://github.com/shloktilokani) | [LinkedIn](https://www.linkedin.com/in/shloktilokani/)
+- **Avash Sahu** - [GitHub](https://github.com/avashsahu) | [LinkedIn](https://www.linkedin.com/in/avashsahu/)
+- **Shweta Janakwade** - [GitHub](https://github.com/108Shweta) | [LinkedIn](https://www.linkedin.com/in/shweta-janakwade-a3698b236/)
+
