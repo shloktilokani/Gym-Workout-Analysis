@@ -1,5 +1,5 @@
 # 🏋️‍♂️ Gym Workout Analysis Dashboard
-
+![Gym Workout Dashboard](https://github.com/shloktilokani/Gym-Workout-Analysis/blob/main/Res/Recording%202025-02-26%20163006.gif)
 ## 📌 Overview
 
 This Excel dashboard provides an in-depth analysis of gym workout trends, performance metrics, and user demographics. It leverages data visualization and analytics to offer insights into workout frequency, calorie burn, fitness levels, and gender-based preferences.
